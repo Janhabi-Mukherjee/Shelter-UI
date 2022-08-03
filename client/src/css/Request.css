@@ -1,0 +1,99 @@
+.reqContainer{
+    margin: 0;
+    display: flex;
+    /*border:2px solid red;*/
+    height: 100vh;
+}
+.reqDiv1{
+    margin: 0;
+   /* border:2px solid red;*/
+    height: 100vh;
+    width: 50%;
+    background-image: linear-gradient(to top,#3b3759,#aa5377,#cf8da7,#4c6e81,#7aacb3);
+}
+.reqDiv2{
+    margin: 0;
+    /* border:2px solid red;*/
+    height: 100vh;
+    width: 50%;
+    background-color: #acdbcd;
+}
+img{
+    position: relative;
+    height: 500px;
+    width: 600px;
+    left:40%;
+    top: 5%;
+    border: 2px solid black;
+    box-shadow: 8px -6px 20px 0px rgb(2 0 1);
+}
+.key{
+    position: relative;
+    left: -30%;
+    bottom: 15%;
+}
+.btn-reqPopup{
+    position: relative;
+    background-image: linear-gradient(to top,#571845,#900c3e);
+    width:20%;
+    height:55px;
+    left:55%;
+    bottom:22%;
+    border-radius:12px;
+    border: none;
+    z-index: 1;
+    box-shadow: 1px -1px 20px 2px rgba(2,0,1);
+    color: white;
+
+}
+.reqForm{
+   position: absolute;
+   bottom: 5%; 
+   left:20%;
+   width:60%;
+  
+}
+.reqForm .form-label{
+    color: white;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    left:-20%;
+    bottom:10%;
+}
+.reqForm .form-control{
+    border:2px solid black;
+    position: absolute;
+    bottom:10%;
+}
+
+.btn-key{
+    position:relative;
+    left:100%;
+    bottom:18%;
+    margin: 10px;
+    border-radius:12px;
+    border: none;
+    background-image: linear-gradient(to top,#571845,#900c3e);
+    width:10%;
+    height:30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.requl{
+    /*border: 2px solid red;*/
+    height:200px;
+    width:70%;
+    position: relative;
+    left:200px;
+    top:180px;
+    padding:20px;
+    font-family: 'Edu SA Beginner', cursive;
+}
+.requl li{
+    margin:10px;
+    font-size: 30px;
+}

@@ -1,0 +1,26 @@
+.container{
+    /*border:2px solid red;*/
+    display: flex;
+    justify-content: space-between;
+    height: 60vh;
+    width: 60%;
+    margin:8%;
+    padding: 5%;
+    position:relative;
+    z-index: 1;
+    left:13%;
+    background-color: white;
+    box-shadow:  -1px 0px 13px 2px rgb(1 24 59)
+}
+
+.logo{
+    /*border: 2px solid red;*/
+    height:58vh;
+    width:100%;
+    background: url('../img/home.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom:25%;
+    right: 8%;
+    position: relative;
+} 

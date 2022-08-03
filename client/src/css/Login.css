@@ -1,0 +1,61 @@
+.loginform{
+    /*border:2px solid red;*/
+    height:55vh;
+    width:60%;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+    z-index: 1;
+    bottom:20%;
+    left: 5%;
+    margin-left: 20px;
+}
+.loginform .form-label{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.loginform .form-control{
+    width: 100%;
+    border: 2px solid black;
+}
+.loginpara{
+    margin-left:15px;
+    margin-top: 10px;
+    font-weight: bold;   
+}
+.btnLogin{
+    position: relative;
+    background-color: #013392;
+    left: -18%;
+}
+.loginDiv{
+    z-index: -1;
+    height: 250px;
+    width: 300px;
+    position:absolute;
+    border-radius:71% 29% 58% 42% / 46% 50% 50% 54% ;
+    bottom: 40%;
+    left:50%;
+    background-image: linear-gradient(to left,#aa5377,#3b3759);
+}
+.loginDiv1{
+    z-index: -1;
+    height: 80px;
+    width: 70px;
+    position:absolute;
+    border-radius:71% 29% 58% 42% / 46% 50% 50% 54% ;
+    bottom: 25%;
+    left:80%;
+    background-image: linear-gradient(to left,#aa5377,#3b3759);
+}
+.loginDiv2{
+    z-index: -1;
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    border-radius:71% 29% 58% 42% / 46% 50% 50% 54% ;
+    bottom: 15%;
+    left:90%;
+    background-image: linear-gradient(to left,#aa5377,#3b3759);
+}

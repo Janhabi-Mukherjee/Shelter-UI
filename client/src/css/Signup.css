@@ -1,0 +1,63 @@
+.signupForm{
+    /*border:2px solid red;*/
+    box-shadow:  -1px 0px 13px 2px rgb(1 24 59);
+    height:70vh;
+    width: 70%;
+    background-color: white;
+    margin: 5%;
+    position: relative;
+    left:10%;
+    padding: 5px;
+    z-index: 1;
+}
+.signupForm .form-control{
+    width:80%;
+    border: 2px solid black;
+}
+.signupForm .form-label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.signupForm .mb-3{
+    margin: 20px; 
+}
+.btnSignup{
+    background-color: #013392;
+    left: 10%;
+}
+.signUpPara{
+    margin-left:10px;
+    margin-top: 10px;
+    font-weight: bold; 
+}
+.signupDiv{
+    z-index: -1;
+    height: 250px;
+    width: 300px;
+    position:absolute;
+    border-radius:71% 29% 58% 42% / 46% 50% 50% 54% ;
+    bottom: 40%;
+    left:50%;
+    background-image: linear-gradient(to left,#aa5377,#3b3759);
+   
+}
+.signupDiv1{
+    z-index: -1;
+    height: 80px;
+    width: 70px;
+    position:absolute;
+    border-radius:71% 29% 58% 42% / 46% 50% 50% 54% ;
+    bottom: 25%;
+    left:80%;
+    background-image: linear-gradient(to left,#aa5377,#3b3759);
+}
+.signupDiv2{
+    z-index: -1;
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    border-radius:71% 29% 58% 42% / 46% 50% 50% 54% ;
+    bottom: 15%;
+    left:90%;
+    background-image: linear-gradient(to left,#aa5377,#3b3759);
+}
