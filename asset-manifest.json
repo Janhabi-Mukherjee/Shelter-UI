@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Janhabi-Mukherjee/Shelter-UI/static/css/main.32875d54.css",
-    "main.js": "/Janhabi-Mukherjee/Shelter-UI/static/js/main.cb551245.js",
-    "static/media/home.jpeg": "/Janhabi-Mukherjee/Shelter-UI/static/media/home.e0f36266f7a5cc2eebf7.jpeg",
-    "static/media/logo2.jpeg": "/Janhabi-Mukherjee/Shelter-UI/static/media/logo2.fbb15233a27d8bc7a71c.jpeg",
-    "static/media/req.jpeg": "/Janhabi-Mukherjee/Shelter-UI/static/media/req.3bfdd6e92a3f661c141a.jpeg",
-    "index.html": "/Janhabi-Mukherjee/Shelter-UI/index.html",
-    "main.32875d54.css.map": "/Janhabi-Mukherjee/Shelter-UI/static/css/main.32875d54.css.map",
-    "main.cb551245.js.map": "/Janhabi-Mukherjee/Shelter-UI/static/js/main.cb551245.js.map"
+    "main.css": "/janhabi-mukherjee/Shelter-UI/static/css/main.ea8582c2.css",
+    "main.js": "/janhabi-mukherjee/Shelter-UI/static/js/main.1919c258.js",
+    "static/media/home.jpeg": "/janhabi-mukherjee/Shelter-UI/static/media/home.e0f36266f7a5cc2eebf7.jpeg",
+    "static/media/logo2.jpeg": "/janhabi-mukherjee/Shelter-UI/static/media/logo2.fbb15233a27d8bc7a71c.jpeg",
+    "static/media/req.jpeg": "/janhabi-mukherjee/Shelter-UI/static/media/req.3bfdd6e92a3f661c141a.jpeg",
+    "index.html": "/janhabi-mukherjee/Shelter-UI/index.html",
+    "main.ea8582c2.css.map": "/janhabi-mukherjee/Shelter-UI/static/css/main.ea8582c2.css.map",
+    "main.1919c258.js.map": "/janhabi-mukherjee/Shelter-UI/static/js/main.1919c258.js.map"
   },
   "entrypoints": [
-    "static/css/main.32875d54.css",
-    "static/js/main.cb551245.js"
+    "static/css/main.ea8582c2.css",
+    "static/js/main.1919c258.js"
   ]
 }
