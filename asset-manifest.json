@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Shelter-UI/static/css/main.8179cc5e.css",
-    "main.js": "/Shelter-UI/static/js/main.7b85028a.js",
+    "main.js": "/Shelter-UI/static/js/main.bbdd00b0.js",
     "static/media/home.jpeg": "/Shelter-UI/static/media/home.e0f36266f7a5cc2eebf7.jpeg",
     "static/media/logo2.jpeg": "/Shelter-UI/static/media/logo2.fbb15233a27d8bc7a71c.jpeg",
     "static/media/req.jpeg": "/Shelter-UI/static/media/req.3bfdd6e92a3f661c141a.jpeg",
     "index.html": "/Shelter-UI/index.html",
     "main.8179cc5e.css.map": "/Shelter-UI/static/css/main.8179cc5e.css.map",
-    "main.7b85028a.js.map": "/Shelter-UI/static/js/main.7b85028a.js.map"
+    "main.bbdd00b0.js.map": "/Shelter-UI/static/js/main.bbdd00b0.js.map"
   },
   "entrypoints": [
     "static/css/main.8179cc5e.css",
-    "static/js/main.7b85028a.js"
+    "static/js/main.bbdd00b0.js"
   ]
 }
