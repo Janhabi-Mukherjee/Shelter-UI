@@ -9,7 +9,7 @@ import Analysis from './components/Analysis';
 function App() {
   return (
     <>
-      <Router basename='/Shelter-UI'>
+      <Router>
         <Routes>
           <Route exact path='/' element={<Home/>}></Route>
           <Route path='/signup' element={<SignUp/>}></Route>
